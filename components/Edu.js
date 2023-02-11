@@ -74,7 +74,7 @@ const Edu = () => {
             >
                 {/* Row 1 */}
                 <div className=' flex justify-center text-center items-center p-10 bg-red max-w-[400px] max-h-[400px] text-2xl font-playfair font-semibold'>
-                    LB Tv.
+                    Lorem ipsum dolor
                 </div>
                 <Info title = "project 1"/>
                 <Info title = "project 2"/>
@@ -86,7 +86,7 @@ const Edu = () => {
                 <Info title = "project 6"/>
                 <Info title = "project 7"/>
                 <div className=' flex justify-center text-center items-center p-10 bg-blue max-w-[400px] max-h-[400px] text-2xl font-playfair font-semibold'>
-                    OLx Pe Bech De
+                    Lorem ipsum dolor
                 </div>
             </motion.div>
         </div>
